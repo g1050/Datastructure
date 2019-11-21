@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../图片/视频/devil.jpeg</file>
+    </qresource>
+</RCC>
